@@ -1,0 +1,11 @@
+com.tencent.wechat
+libbrotli1
+libicu70
+util-linux-extra
+ca-certificates-uniontech
+libxcb-icccm4
+libxcb-image0
+libxcb-util0
+libxcb-keysyms1
+libxcb-render-util0
+libxkbcommon-x11-0
